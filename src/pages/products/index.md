@@ -8,16 +8,16 @@ description: >-
   Mobile Software for all devices
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/ms_2.jpg
       text: >
         We sell 
-    - image: /img/coffee-gear.png
+    - image: /img/ms_2.jpg
       text: >
         We offer 
-    - image: /img/tutorials.png
+    - image: /img/ms_2.jpg
       text: >
         Love 
-    - image: /img/meeting-space.png
+    - image: /img/ms_2.jpg
       text: >
         We believe 
   heading: What we offer
@@ -29,13 +29,13 @@ main:
     We hold
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/ms_2.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/ms_2.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/ms_2.jpg
 testimonials:
   - author: Shakespeare
     quote: >-
@@ -43,7 +43,7 @@ testimonials:
   - author: Alfred Korzybski
     quote: >-
       The map is not the territory
-full_image: /img/products-full-width.jpg
+full_image: /img/ms_2.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
