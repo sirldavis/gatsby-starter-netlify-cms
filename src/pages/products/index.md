@@ -8,16 +8,16 @@ description: >-
   Mobile Software for all devices
 intro:
   blurbs:
-    - image: /img/ms_2.jpg
+    - image: /img/coffee.png
       text: >
         We sell 
-    - image: /img/ms_2.jpg
+    - image: /img/coffee-gear.png
       text: >
         We offer 
-    - image: /img/ms_2.jpg
+    - image: /img/tutorials.png
       text: >
         Love 
-    - image: /img/ms_2.jpg
+    - image: /img/meeting-space.png
       text: >
         We believe 
   heading: What we offer
@@ -29,13 +29,13 @@ main:
     We hold
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/ms_2.jpg
+    image: /img/products-grid3.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/ms_2.jpg
+    image: /img/products-grid2.jpg
   image3:
     alt: Coffee beans
-    image: /img/ms_2.jpg
+    image: /img/products-grid1.jpg
 testimonials:
   - author: Shakespeare
     quote: >-
@@ -43,7 +43,7 @@ testimonials:
   - author: Alfred Korzybski
     quote: >-
       The map is not the territory
-full_image: /img/ms_2.jpg
+full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
@@ -51,23 +51,23 @@ pricing:
   plans:
     - description: Ideas
       items:
-        - 3 
-        - Green
-        - One
+        - 3 lbs of coffee per month
+        - Green or roasted beans"
+        - One or two varieties of beans"
       plan: Small
       price: '50'
-    - description: Mobile
+    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
       items:
-        - 6
-        - Green 
-        - Up to 
+        - 6 lbs of coffee per month
+        - Green or roasted beans
+        - Up to 4 different varieties of beans
       plan: Big
       price: '80'
-    - description: Devices
+    - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
-        - Green 
-        - Unlimited
+        - Green or roasted beans
+        - Unlimited varieties
       plan: Custom
       price: '??'
 ---
