@@ -45,28 +45,28 @@ testimonials:
       The map is not the territory
 full_image: /img/ms_2.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Subscriptions
   description: >-
     We make
   plans:
     - description: Ideas
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - one
+        - two
+        - three
       plan: Small
       price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+    - description: Devices
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
+        - one
+        - two
+        - three
       plan: Big
       price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: Custom
       items:
-        - Whatever you need
-        - Green or roasted beans
+        - Whatever
+        - two
         - Unlimited varieties
       plan: Custom
       price: '??'
